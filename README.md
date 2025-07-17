@@ -15,6 +15,7 @@ Slides for the theoretical part of the session.
 ### Links to Google Colab notebooks for the numerical part of the session:
 
 - [Poisson example](https://colab.research.google.com/drive/19WbvUdEtSFjU0LI4NIsqumFN2JUZ_z5b#scrollTo=KWx6rC6YtYR9)
+- [Poisson-Dirichlet Circle](https://colab.research.google.com/drive/1_vCraZuUBEiu__WwQpyYr2l__vwQyG2C?usp=sharing)
 
 
 
