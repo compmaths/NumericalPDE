@@ -11,6 +11,12 @@ Slides for the theoretical part of the session.
 ### The FEniCS computing platform (Finite Elements library)
 - [Web page](https://fenicsproject.org/)
 - [FEniCS documentation: tutorial, Poisson example](https://jsdokken.com/dolfinx-tutorial/chapter1/fundamentals.html/)
+
 ### Links to Google Colab notebooks for the numerical part of the session:
+
+- [Poisson example](https://colab.research.google.com/drive/19WbvUdEtSFjU0LI4NIsqumFN2JUZ_z5b#scrollTo=KWx6rC6YtYR9)
+
+
+
 
 
