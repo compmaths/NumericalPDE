@@ -2,7 +2,7 @@
 
 PDEs: Variational Formulations &amp; Numerical Methods
 
-![qr code](./img/qr-code.png)
+<img src="./img/qr-code.png" alt="Paris" class="center" style="width:500px;height:600px;"/> 
 
 ## Session 1 (Wednesday, 23, 9:00-13:00)
 
