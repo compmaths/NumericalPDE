@@ -1,4 +1,4 @@
-# NumericalPDE
+# NumericalPDE. Cagliari 2025
 
 PDEs: Variational Formulations &amp; Numerical Methods
 
