@@ -4,7 +4,7 @@ PDEs: Variational Formulations &amp; Numerical Methods
 
 ## Session 1 (Wednesday, 23, 9:00-13:00)
 
-Slides for the theoretical part of the session.
+[Slides for the theoretical part of the session](https://drive.google.com/file/d/1HuaNAasIxAS71ZeGu-ukoAVO7CbfwDBl/view?usp=drive_link).
 
 ## Session 2 (Thursday, 24, 14:00-16:00)
 
